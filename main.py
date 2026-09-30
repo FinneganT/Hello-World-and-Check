@@ -33,6 +33,4 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
-def main():
-    print("Hello, World!")
-main()
+print("Made by Finnegan Sutherland")
